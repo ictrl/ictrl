@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Samrat Saurav Jaiswal -->
 
 <h1 align="center">Hi 👋, I'm Samrat Saurav Jaiswal</h1>
-<h3 align="center">🚀 Backend Engineer | IoT & Industry 4.0 Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Backend Engineer | Obsessed Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Engineer;Fullstack+Developer;IoT+and+E-commerce+Experience;Always+learning+something+new!" alt="Typing SVG" />
@@ -12,16 +12,17 @@
 ### 🌱 About Me
 
 - 💼 I started as a **Fullstack Developer**  
-- ⚙️ Currently working as a **Backend Specialist**, building scalable APIs  
+- ⚙️ Currently working as a **Backend Specialist**, building fast, secure and scalable backend systems
 - 💡 Worked in **E-commerce**, **IoT**, and **Industry 4.0** domains  
-- 🧠 Exploring: **TypeScript**, **SOLID principles**, **Microservices**, **DevOps**  
-- 🛠️ Hands-on with: **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Redis**, **Docker**
+- 🧠 Exploring: **AI/ML**, **Microservices**, **DevOps**
+- 🛠️ Hands-on with: **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Redis**, **Docker** **React**
 
 ---
 
 ### 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-339933?style=flat&logo=react.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -33,10 +34,18 @@
 
 ---
 
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ictrl?theme=dark&font=consolas&ext=heatmap" alt="LeetCode Stats Card" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ictrl&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ictrl&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
