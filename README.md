@@ -37,9 +37,8 @@
 ### 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ictrl?theme=dark&font=consolas&ext=heatmap" alt="LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/ictrl?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats Card" width="800"/>
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
