@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Samrat Saurav Jaiswal -->
 
 <h1 align="center">Hi 👋, I'm Samrat Saurav Jaiswal</h1>
-<h3 align="center">🚀 Backend Developer | IoT & Industry 4.0 Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Backend Engineer | IoT & Industry 4.0 Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Engineer;Fullstack+Developer;IoT+and+E-commerce+Experience;Always+learning+something+new!" alt="Typing SVG" />
@@ -33,59 +33,46 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ictrl&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samratjaiswal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samratjaiswal&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratjaiswal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ictrl&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ictrl&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samratjaiswal/" target="_blank">
-    <img src="https://img.shields.io/badge/-Samrat%20Jaiswal-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/samratsauravjaiswal" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:samrat.jaiswal.dev@gmail.com">
+  <a href="mailto:samratsauravjaiswal@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/samratjaiswal" target="_blank">
+  <a href="https://github.com/ictrl" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/ictrl/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="http://samratjaiswal.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 📰 Blogs & Articles
-
-<!-- Replace with your actual blog/dev.to/medium links -->
-- ✍️ [Top 5 Patterns for Scalable APIs (Coming Soon)]()
-- 🚀 [Mastering Node.js Microservices (Coming Soon)]()
 
 ---
 
 ### ⚡ Fun Fact
 
 > I sometimes create Bash aliases just to feel like a terminal wizard 🧙‍♂️
-
----
-
-### 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samratjaiswal&label=Profile%20Views&color=0e75b6&style=flat" alt="samratjaiswal" />
-</p>
-
----
-
-### 🖤 Support & Connect
-
-If you like what I do, feel free to ⭐️ the repositories, give feedback, or connect with me.  
-I'm always open to interesting ideas, collaborations, and contributions 🤝
 
